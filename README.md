@@ -67,4 +67,4 @@ pip install notebook
 
 - Make sure your webcam is connected and accessible.
 - The notebook deletes the temporary audio file (`output.mp3`) after playback.
-- If you have trouble installing `dlib`, refer to the official
+- If you have trouble installing `dlib`, refer to the official 
