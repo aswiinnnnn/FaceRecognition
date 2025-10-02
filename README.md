@@ -68,11 +68,11 @@ pip install notebook
 
 ## 🧑‍💻 Author
 
-**aswiinnnnn**
+**Ashwin Raj**
 [GitHub](https://github.com/aswiinnnnn)
 
-**aswiinnnnn**
-[GitHub](https://github.com/aswiinnnnn)
+**Viswanath**
+[GitHub](https://github.com/Viswanathvichu)
 
 
 
