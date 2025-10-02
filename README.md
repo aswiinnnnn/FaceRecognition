@@ -63,6 +63,19 @@ pip install notebook
 - `Faces/`: Directory containing images of known people.
 - `.ipynb_checkpoints/`: Jupyter notebook checkpoints.
 
+
+---
+
+## 🧑‍💻 Author
+
+**aswiinnnnn**
+[GitHub](https://github.com/aswiinnnnn)
+
+**aswiinnnnn**
+[GitHub](https://github.com/aswiinnnnn)
+
+
+
 ## Notes
 
 - Make sure your webcam is connected and accessible.
